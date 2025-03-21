@@ -1,5 +1,4 @@
-# head
-## head
+
 <header>
 
 <!--
@@ -14,7 +13,7 @@
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
-###### head6
+
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
@@ -22,7 +21,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-###### head5
+
 ## Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
@@ -34,7 +33,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 - Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
 
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
-#### head4
+
 ### Example
 
 ```md
@@ -44,7 +43,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ###### This is an `<h6>` header, which is the smallest
 ```
-### head
+
 #### How it looks
 
 # This is an `<h1>` header, which is the largest
@@ -66,14 +65,14 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-added mew 6 headers
+
 <footer>
 
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
-added mew 6 headers
+
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
@@ -81,4 +80,3 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
-added mew 6 headers
